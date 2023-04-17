@@ -7,7 +7,7 @@ GPU is required for training the model and getting predictions (steps 5 and 6). 
 
 [Kaggle GPU Docker Image](https://console.cloud.google.com/gcr/images/kaggle-gpu-images/GLOBAL/python)
 
-## Quick Overview:
+## Quick Overview
 Step 1. Turn video into frames \
 Step 2. Label frames by hand to get label csv \
 Step 3. Adjust format of the label csv \
