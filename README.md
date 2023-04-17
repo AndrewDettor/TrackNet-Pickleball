@@ -15,7 +15,7 @@ Step 4. Use label csv to turn frames into .npy files \
 Step 5. Train model using .npy files and get new weights \
 Step 6. Use video and new weights to get prediction csv \
 Step 7. Use video and prediction csv to show ball trajectory \
-Step 8. Use prediction csv and label csv to get model performance \
+Step 8. Use prediction csv and label csv to get model performance
 
 For more information about each step, look into its respective folder.
 
