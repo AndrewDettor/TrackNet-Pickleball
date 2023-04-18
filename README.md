@@ -21,8 +21,12 @@ GPU is required for training the model and getting predictions (steps 5 and 6). 
 ### Weights Files
 The weights are too big to upload to GitHub (>25MB), so I uploaded them to Google Drive. The old weights are from the 3-in-3-out model in the TrackNetV2 repository. The new weights are from our best model.
 
-[Old Weights](dafdsfasdfF) \
-[New Weights](jsdfadbkfasdkjf)
+[Old Weights](https://drive.google.com/file/d/16ZnOljaxW6zM4bP7TTo1t81gaty7Egts/view?usp=sharing) \
+[New Weights](https://drive.google.com/drive/folders/1EGsddY1fgEJ5ITrfF32aPCn6nml2Anzr?usp=sharing)
+
+## Data Files
+[Example Raw Video](https://drive.google.com/file/d/1_IttM4H7DOy-TL_xemQOnQhvGvwnt7TG/view?usp=sharing) \
+[Example Labels File](https://drive.google.com/file/d/198jLZ56IMKi0wlC45YRw_Suvx_nklPa9/view?usp=sharing) \
 
 ## The Model
 
