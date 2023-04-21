@@ -26,7 +26,7 @@ The weights are too big to upload to GitHub (>25MB), so I uploaded them to Googl
 
 ## Data Files
 
-[Example Predictions File](https://drive.google.com/file/d/1o047gPPUavZjDLvJhv94GQVg75PN1kpu/view?usp=sharing) \
+
 [Example Ball Trajectory Video](https://drive.google.com/file/d/1t3KB5M0vt2GyOXPKkXG0Gr7wnQNK5sFI/view?usp=sharing)
 
 ## Sources
