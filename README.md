@@ -24,11 +24,6 @@ The weights are too big to upload to GitHub (>25MB), so I uploaded them to Googl
 [Old Weights](https://drive.google.com/file/d/16ZnOljaxW6zM4bP7TTo1t81gaty7Egts/view?usp=sharing) \
 [New Weights](https://drive.google.com/drive/folders/1EGsddY1fgEJ5ITrfF32aPCn6nml2Anzr?usp=sharing)
 
-## Data Files
-
-
-[Example Ball Trajectory Video](https://drive.google.com/file/d/1t3KB5M0vt2GyOXPKkXG0Gr7wnQNK5sFI/view?usp=sharing)
-
 ## Sources
 [Labelling Tool](https://github.com/Chang-Chia-Chi/TrackNet-Badminton-Tracking-tensorflow2) \
 [TrackNetV2](https://nol.cs.nctu.edu.tw:234/open-source/TrackNetv2)
