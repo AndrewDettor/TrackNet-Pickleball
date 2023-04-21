@@ -1,4 +1,5 @@
 # Step 8 - Show Model Trajectory
+[Example Ball Trajectory Video](https://drive.google.com/file/d/1t3KB5M0vt2GyOXPKkXG0Gr7wnQNK5sFI/view?usp=sharing) \
 With a video and its predictions, we can overlay the predictions onto the video and show the ball's trajectory.
 
 NOTE: This does NOT require a GPU.
