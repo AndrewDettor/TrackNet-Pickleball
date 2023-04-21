@@ -1,4 +1,5 @@
 # Step 4 - Create Batches of Data
+[Example .npy Files](https://drive.google.com/drive/folders/1Qj6EqrBuW5BgGxX16rYnZd9RH5YGGSTN?usp=sharing) \
 The model expects .npy (numpy) files as input. This script takes a video and its labels and generates batches of frames and their labels in .npy format. 
 We recommend using a batch size of 250.
 
