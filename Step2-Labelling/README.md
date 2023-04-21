@@ -1,4 +1,5 @@
 # Step 2: Labelling Tool
+[Example Labels File](https://drive.google.com/file/d/198jLZ56IMKi0wlC45YRw_Suvx_nklPa9/view?usp=sharing) \
 This is a GUI that helps label the ball location in video footage. It outputs results as a .csv file.
 
 ## Step 2.1
