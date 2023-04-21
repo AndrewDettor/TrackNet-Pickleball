@@ -1,4 +1,5 @@
 # Step 6 - Make Predictions
+[Example Predictions File](https://drive.google.com/file/d/1o047gPPUavZjDLvJhv94GQVg75PN1kpu/view?usp=sharing) \
 Once we have new weights, we can make predictions on a video.
 
 This jupyter notebook takes in a list of videos to predict on and 2 sets of 2 weights to compare performance with.
