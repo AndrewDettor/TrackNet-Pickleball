@@ -1,4 +1,5 @@
 # TrackNetPickleBall
+Follow these steps to create a video that tracks the location of a pickleball and obtain metrics on the model's performance.
 
 ## Quick Overview
 Step 1 - Turn video into frames \
