@@ -3,7 +3,7 @@ Follow these steps to create a video that tracks the location of a pickleball an
 
 Check out the Presentation and Project Report for visuals and additional details.
 
-## Quick Overview
+## Steps
 Step 1 - Turn video into frames \
 Step 2 - Label frames by hand to get label csv \
 Step 3 - Adjust format of the label csv \
