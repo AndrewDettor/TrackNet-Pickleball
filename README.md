@@ -1,6 +1,8 @@
 # TrackNetPickleBall
 Follow these steps to create a video that tracks the location of a pickleball and obtain metrics on the model's performance.
 
+## Model Architecture
+
 ![model architecture](https://github.com/AndrewDettor/TrackNet-Pickleball/blob/main/tnv2%20architecture%20picture.png)
 
 ## Steps
