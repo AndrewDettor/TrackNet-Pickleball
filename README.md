@@ -1,9 +1,12 @@
 # TrackNetPickleBall
 Follow these steps to create a video that tracks the location of a pickleball and obtain metrics on the model's performance.
 
-Check out the [Presentation](https://github.com/AndrewDettor/TrackNet-Pickleball/blob/main/Presentation.pdf) and [Project Report](https://github.com/AndrewDettor/TrackNet-Pickleball/blob/main/ProjectReport.pdf) for visuals and additional details.
+![model architecture](https://github.com/AndrewDettor/TrackNet-Pickleball/blob/main/tnv2%20architecture%20picture.png)
 
 ## Steps
+
+![flow chart](https://github.com/AndrewDettor/TrackNet-Pickleball/blob/main/Flow%20Chart.jpg)
+
 Step 1 - Turn video into frames \
 Step 2 - Label frames by hand to get label csv \
 Step 3 - Adjust format of the label csv \
